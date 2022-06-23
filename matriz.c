@@ -1,3 +1,7 @@
+// Situação problematizadora
+
+// Desenvolver um programa que leia uma matriz de 3 x 3 elementos usando um comando for, multiplique cada elemento por cinco e imprima o resultado.
+
 #include <stdio.h>
 
 int main(void)
